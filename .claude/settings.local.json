@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -)",
+      "mcp__claude_ai_Notion__notion-fetch",
+      "Read(//home/cw2323/.claude/**)",
+      "mcp__claude_ai_Notion__notion-create-pages"
+    ]
+  }
+}
